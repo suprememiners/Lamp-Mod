@@ -1,2 +1,2 @@
-Extra-Lamp-Mod
+Lamp-Mod
 ==============
